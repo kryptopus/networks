@@ -1,0 +1,12 @@
+{
+  "name": "@kryptopus/networks",
+  "description": "Networks",
+  "version": "0.1.1",
+  "author": "neolao <contact@neolao.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kryptopus/networks.git"
+  },
+  "license": "MIT",
+  "main": "index.js"
+}
